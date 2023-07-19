@@ -1,0 +1,79 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+}
+
+.sidenav {
+  background-color: bisque;
+  font-size: medium;
+}
+
+.sidenav::-webkit-scrollbar {
+  display: none;
+}
+
+.main {
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  font-size: larger;
+  background-color: khaki;
+}
+
+.contenedorHeaderTexto {
+  background-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.contenedorExperiencia {
+  font-size: medium;
+  width: 600px;
+  height: 60px;
+  border: 1px;
+  margin-top: 3px;
+}
+
+.contenedorHabilidades {
+  background-color: white;
+  justify-content: center;
+  display: flex;
+}
+.father {
+  width: 1000px;
+  background-color: white;
+  border: 2px black solid;
+  display: flex;
+  justify-content: center;
+}
+
+.lineadivisora {
+  height: 4px;
+  background-color: black;
+}
+.img {
+  background-image: url("https://cdn.pixabay.com/photo/2022/12/03/16/26/crater-7633035_1280.png");
+}
+
+ul {
+  /* padding-left: 0; */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.puesto {
+  width: 70%;
+  padding-left: 38px;
+
+}
+
+.imagen{ 
+padding-left: 100px;
+
+}
+h5{
+padding-left: 450px;
+
+
+}
